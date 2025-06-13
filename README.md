@@ -1,1 +1,1 @@
-Programa conversor de moedas.
+Programa conversor de moedas. Linguagem: CSS e HTML.
